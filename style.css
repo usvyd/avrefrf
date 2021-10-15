@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    color: blueviolet;
+}
+h3{
+    width: 80%;
+    font-size: medium;
+    }
+    .name_of_objects, #result_object_name,#result_object_accuracy {
+        color: darkkhaki;
+    }
+    #camera{
+        border: 2px dashed black;
+        width: 350px;
+        height: 300px;
+    }
